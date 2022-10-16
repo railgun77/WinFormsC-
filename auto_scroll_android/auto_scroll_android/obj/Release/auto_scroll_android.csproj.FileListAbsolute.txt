@@ -1,0 +1,10 @@
+c:\users\localuser\source\repos\auto_scroll_android\auto_scroll_android\bin\Release\auto_scroll_android.exe.config
+c:\users\localuser\source\repos\auto_scroll_android\auto_scroll_android\bin\Release\auto_scroll_android.exe
+c:\users\localuser\source\repos\auto_scroll_android\auto_scroll_android\bin\Release\auto_scroll_android.pdb
+c:\users\localuser\source\repos\auto_scroll_android\auto_scroll_android\obj\Release\auto_scroll_android.Form1.resources
+c:\users\localuser\source\repos\auto_scroll_android\auto_scroll_android\obj\Release\auto_scroll_android.Properties.Resources.resources
+c:\users\localuser\source\repos\auto_scroll_android\auto_scroll_android\obj\Release\auto_scroll_android.csproj.GenerateResource.cache
+c:\users\localuser\source\repos\auto_scroll_android\auto_scroll_android\obj\Release\auto_scroll_android.csproj.CoreCompileInputs.cache
+c:\users\localuser\source\repos\auto_scroll_android\auto_scroll_android\obj\Release\auto_scroll_android.exe
+c:\users\localuser\source\repos\auto_scroll_android\auto_scroll_android\obj\Release\auto_scroll_android.pdb
+C:\Users\localuser\source\repos\auto_scroll_android\auto_scroll_android\obj\Release\auto_scroll_android.csprojAssemblyReference.cache
